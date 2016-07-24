@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chatdinger",
+  "name": "Chat Dinger",
+  "description": "This mod dings when you receive a chat message that matches the regex in the config file.",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jjm_223"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
